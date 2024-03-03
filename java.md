@@ -5,5 +5,9 @@
 - [The Java Version Almanac](https://javaalmanac.io/)
 - [GC, hands off my data!](https://blog.allegro.tech/2022/06/gc-hands-off-my-data.html)
 
+# Youtube
+
+- [Asynchronous Programming in Java: Options to Choose from By Venkat Subramaniam](https://www.youtube.com/watch?v=1zSF1259s6w)
+
 # Other
 - [The 1 billion row challenge](https://github.com/gunnarmorling/1brc/blob/main/src/main/java/dev/morling/onebrc/CalculateAverage_jatingala.java)

@@ -7,7 +7,12 @@
 - [Migrating from Java 8/11 to Java 21, and Spring Boot 2 to the latest Spring Boot 3.2](https://unlogged.io/post/migrating-from-java-8-11-to-java-21-and-spring-boot-2-to-the-latest-spring-boot-3-2)
 - [Digma](https://digma.ai/blog/couch-to-fully-observed-code-with-spring-boot-3-2-micrometer-tracing-and-digma/)
 
+# Youtube
+
+- [Spring Boot ❤️ Testcontainers by Iván López](https://www.youtube.com/watch?v=TAI4ZiKMcfY)
+
 # Other
 - [Vaadin Workshop](https://github.com/simasch/vaadin-workshop)
 - [Pkl](https://pkl-lang.org/spring/current/usage.html)
 - [Pkl Spring Kotlin](https://github.com/apple/pkl-spring/tree/main/samples/spring-boot-kotlin)
+- [Spring academy](https://spring.academy)

@@ -8,11 +8,25 @@ logging:
 
 AbstractHttpConfigurer
 
+```Kotlin
+  @Bean
+  fun filterChainBasic(http: HttpSecurity): SecurityFilterChain {
+    http {
+      authorizeRequests {
+          authorize("/**", permitAll)
+      }
+      httpBasic {}
+    }
+    return http.build()
+  }
+```
+
 # Youtube videos
 
 - [Spring Security, demystified by Daniel Garnier Moiroux](https://www.youtube.com/watch?v=iJ2muJniikY) -> [git repo](https://github.com/Kehrlann/spring-security-workshop-code)
 - [Spring Security: The Good Parts by Daniel Garnier Moiroux](https://www.youtube.com/watch?v=TrCLf9zAQfs)
 - [OAuth2, OpenID: live coding SSO, from first principles by Daniel Garnier Moiroux](https://www.youtube.com/watch?v=wP4TVTvYL0Y)
+- [Test Driven Security with Spring By Eleftheria Stein Kousathana](https://www.youtube.com/watch?v=Akw6MpwnIAM) -> [git repo](https://github.com/eleftherias/devoxx-belgium-2023)
 
 # Blogs
 
